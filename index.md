@@ -12,7 +12,7 @@ Tanay AKGÜL 21400778 Section 3
 Koray GÜRSES 21401254 Section 3
 
 
-
+\n
 Football Database E/R Diagram
 
 
