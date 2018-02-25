@@ -10,12 +10,10 @@ URL of Diagram:
 [Diagram link](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Football%20Database.html#R7V1bj6M4Fv41kXYfUuIOeeyqmp55mJZa6pV25ilywEnYJpg1pqtqf%2F3aBBKwTUISLiapfqhOjIONj893rj7MzJfd%2B%2B8YJNtvKIDRzNCC95n5OjMMQ3NN%2Bh9r%2Bdi3OHbRsMFhsG%2FSjw0%2Fwv%2FBolErWrMwgGmtI0EoImFSb%2FRRHEOf1NoAxuit3m2NovqoCdhAoeGHDyKx9d9hQLb7Vs9wj%2B1%2FwHCzLUfWncX%2Byg6UnYsnSbcgQG%2BVJvO3mfmCESL7T7v3FxixxSvXZf%2B7rw1XDxPDMCZtfmC7i4VhwrVnOD4w3Hkxz18gyopnnRlORG%2F1nLDZko9iCZz%2FZmyKzzuAN2E8M7%2FQq1byTv9qx79lJ%2FppU%2Fyf32pVaQC7hH6IV2mSf9dUbfoOcYri8gnogq74p6JtCd%2B2xXzL%2BWXcL%2BB%2B1H37PIJrsr%2FonVrXNAEx35aVDUn%2BAEtK%2BON8M8kzyG4ie7ShHiQGO3hmeithlQeccIu9sw5xSpbcgyg0vwiMNL0URADLiP6hyIYMAIFLtF6uQkyBe%2BDBqRT5xz8H3zEu65tsUQyXcbZbQcxu4L6OBQWj8narGRi1sY1fEJOQqgpfonBDx34liHEZKL7tx3xGtNc6ygX%2FOqQC2Xxeo5gUio5uFN%2B%2Fgl0YMRXpDxj9guyuTKSQXcQ6HcZmA8L3RvmvH7QKqo5BtIMEU%2B7Sih9YWqGIFJqYXXx9O6o1ulO0basqTdkRFKrU5nDro7ZBPxQKR4Py4QfQtzR9ba41X1ut5p6wmjCgilfxFVEeRBsUg%2Bi3Y%2BszRlkcQHZHrb468D0kf7HmJ7v49nfRKSUAky9MD6QNMd3pZdvXnBZ5HxgHXA%2FaUrn%2BH0jIR0EwkBHEiHqY35%2BIEb1CI%2FYYpylEnxpl2IdytWyvWYpUxDACJPxVv7eMJMVPv6OQjnqkvlenvu4tnhbVf%2FUb0iXaQFLcgyPzYVLtKC99vq70zoLNKVeQecF4rJ9PV5zB2Vm19DXE1GpAuMLvKml77l5mx5uMmSkn0HnSyDQ363vTcIx20GTbHSATvz%2B9T7uowS6KwAdUlVMEGyif7HkbaBD9IovDNcK7g5Y17OgJSkMS1izaQcaNARuVgg75GHpoHyQEhIM%2F8UPokabGo7UporUrUyQ1rwe47tSNdas68YKAXzUeFULIDQLRMoGYPUuuTAzLGgz%2FwCgolGMus%2Bz9LEnvkB8dS9Cenux2%2BpPXg%2F5U6nJqMOSfEGwyqCZHCjpLlE9WEZ1lHb6TDA%2FvJ4QgHR4k2gru8WcwaahyLbcGVU7plDgLVF24oHigMlQCqpcoW00Epnw6VUVAaoxIRhkogCkBqyhMtzu2%2B0cHEB9FCDfoN%2BNqVz0KCwKCMNuN99DMlXyPOqVZpl%2BUsQK3JVB3EyzgkdpUCamfs2ADyewTqy%2BcG0GEWqBgh7KYDD42BnG6pjy74ok3yPBv1OAuhh4%2BzCvzhH6qtN15w%2BoardYWKI0%2BgNJSCSj%2FVTDdRKDygBFqwOVobOtnmG3%2BpV%2B3SIbRrOheG2Xgh8Aqo45VltkSqxYdQJW19jyN%2FjF0YC0C25%2FrN0CVhL75yh9h7DR0VS8H0Ed475nO%2B7AUExyFMWyBcK9I3dwB4IMA7kKfXg%2FgBkPYdot%2FMtlNTOYtbM4d35LLOklm4NOsTGE1u0izmlWSrPYpVzGd6F9lN%2FbleE39FCwBmwrP4D4JqsBA6Jq%2B7xkLELgLx5ybnnwXtE7Tuho4lXJbftnAeCq2MGBzVUS7UzdDnG9SPaOdbxotw730C%2BfYNvTg8D2BOISxP0Ye%2BUOIdU17qgv21vnTXVj6ghRQyiX6FVKdmc%2FuUFkU%2BMwJiatpaQ8lCbYQBCcwctKMqut87GJIM1fwyDkq8ek3QFRNTxNYdMfmqoi2xkT70GOmPho%2B%2B4ZxGRgcjSibLQkEg8dxwRv4ODHwpGGQT7UxF23VFbMPGLzl0I8q3r4XSjkM%2FKmYu34xXUUwdLR4BoyD5RgAPnLMGSQJRpTf7hDb5ofE5RLcnJYJz53YYoIrUMA2ttdTYZHTLUjYR0wF3ipLmYwnGP081BUxuBV1Z3kph5BOkMLY4Xffj03Pb9uQwB8JyD2Zbxgk9bUuCVggYf32VjfEsEs7uKSFK9LClpCil1PFMt9od%2F5v9T3Z%2FNa0REe2tAzMAH7shqlVSLUFbXgmQNkqv6rfCQMZTh3MHEvgH9lpqk5Sonn%2B0XWBAqrHi%2FwIpGno1xhNH5zR7POMZt56sP96qvYSBdSbqTrXnjSOso61KBsq%2FHdNjYbpENwaCVptAVoxTLOIVYNgZ2IfQi2Z69wxVUsT9RIZrlod4KrreAvbXZkry%2FNWrmFLk10ayECN0Z%2F15ep6Y4tr1lJVu7EEicE5ZvmaI3t2E2qOiPdxT9%2Bnu9olIh1lfozOCdkSYTWnDrFaI8J2A3lmC8hzxtxgDs%2FyvCur7Q5zuSO1Jh8aaNhiVESBj0q3hHVIu96EhhhToOKShCk1tg%2BHUY7B2OO1JXxPxOvCBq5L%2FjNY3gFU21wOtVWufmXXeJJd4%2FRhy3vC2lJtA6UhIHRFHkN0OpxFX1Y0PSM43T4Ep%2FSQJq%2FLynRDYYuqKxdth0Mb3knVFrb4SgDCjUaFLckpLoJBGD%2BMo4xTfwxJREa6y%2FrICy3n0rdJOEnbzmph3N1cpu9qv5lo3aF1fsrmIbhornPSyfBk5U5kjGR1wEiCqT2Yw0wpt7J94%2BaXy6%2B5Xppyh7jOrQKsaSA%2BaFFYDk2SVZxZ%2FQf0w34OnUlLq4WlKW6Ky9x0muh8vW5%2FNNVQrAJogz4wltLF10O9WunixbpZEqp7d4QAPqKxsgMx2MBHUamMJjv9jKnSh%2BXo9KJRiRWNj9x7ZOa%2Fy1%2BppknZEiDop%2BDxpSLAcLkUgkKSN9pW%2Bk3dC59NV%2BJC2HyigzlP%2F0HRgyCBzsG5LTmHL0sI6QUJrP6RQD%2BBBEraVOUOPek9btAIOrepBF3EFo0qgiEgjyJIF7wgtUSTSsY%2BXQTLhJ1iDyNIB3ZNVLjVEAT3cDzW0%2BsF3K49j%2B1CiJZ%2B2m473b17MSxGZopUQG2NHsVDY5p1zcoyJO4ZV8QSm7ObugF2RylZrMLhdglINMjDEbybjtsPvYxLCKZ%2Bnmcbh4scnMag6WJwHjSpKlnPjdAPyRJ3kX5WSpqT6rQxEsHdAVwhdYJXiZ2nxhh3Re02bpTxqN1PCOQix5f6iN2YxXOyyMxYJPV6IWmVoGcjERMkqS2JG6ujWrm9iOFqeKmGyfod8KjaBPX6EbMCl06WcJ17OSzezVGqYf3H%2BrwBpOwpu0hVDu6expr25FT%2BcWEib1G7Wr776tKo8W2j9LjNeopduO1096kAzjX291jKnCdmCYxYguYVJpRQMPfyqlhGQd1Cd6oX4hut8N6eg5peGsWh2bQqHfCZ%2BJI3LUorWbk9wIjsRYvc4l50coSt7At7ac0RwjtYMS6Qaeuyd%2BHJTpP0UhqizEe6LIsvAOk2X0VdtqHUPcjAnWPQde4ObZWjxZn7dBRMbBimq%2BCgmHPfi27VPr%2FTnUxCvmDPuYaoX8lLYo6RPVLOrpqSjzcgpsvzMAkknGVsO54Au9IzfObt9BBAt8Vp6%2FsBXW7hdcN64s45tIVd3Tx7qyEPkAlkFbnsgchqep2RVbzVqGSVVTK%2BW7LadUePbi2uJqt29lajHvd0h9Z2JKWEFPNKy7SYhk4j%2BIkWvaRKXXb8aBLaaVPNgJPK6WhUHYANjenHcq9y6N76CpirrFY%2BBlWq1Y3n0xa39dc1i9t%2F3ebMHuo0KZbvvYqQ%2F1OJXdh9iIs7LGNonOurxwpKnmic%2FYBEUrZG2BT3aThL3isiK6BqihppH8fZdW2gZK4pMuOtlVJHZ0aR2hJT60GpLU%2BTnzK1BeiVnU4BLBoWJoA8jKeSrzbm6KYkRFQWGO%2FbV1lqV1OquKuCKa10%2FvvBNfOZEn2JgC0Z86R7xLsVl68nqgJHySZIVAmjqkTUns6bTT2t8gz8llacqlTt5fzCZb7nT6p2TdV%2BahbevarUKuowIlUNwSoRyKxAXplrcO9TKw25itFgaDI3DZ%2B91M2qDf1KB86rb0wmWnOd6aANxA5Cklg%2FZ6X7xDg1gnB6mV2nZNHWw%2BwqKBcyHwdM87riE3kvRz%2FQytfuOuSRjlDFT9eHVh07AFYFKsK2Y79bw1kNVKVfMWJHAg7Xfqd7e%2FsNBZD1%2BD8%3D)
 
 1. Introduction
-
 In this Project, our group will design and implement a football database system. In this system, user can search various information about players (i.e. which position they play, which club they are working at and more), coaches, clubs, managers and more.  Club managers(directors) can set prices for each player they have, offer transfer to players who work for a different club and managers can accept or reject the transfer offer. Database system is required for keeping the information about the clubs, players, managers and more; leagues, point tables and fixture of the clubs. 
 
 2. Requirements<br />
 2.1 Functional Requirements
-
 - System should find the person that user has written the name of that person in the search bar.
 - System should show all the attributes of the selected person or football club (if he is a football player system should show, height, nationality, play position, age, price, contract start date and end date, how many goal they have scored and more).
 - System should include fixture of the club.
@@ -24,31 +22,18 @@ In this Project, our group will design and implement a football database system.
 - System should allow the user to send transfer offer to a player from another club to other club’s manager/user.
 - System should allow the user to accept/decline the transfer offer.
 
-
-
-
 2.2 Non-functional Requirements
-
-Performance:  Response Time of the system should be minimalized in order to make the system work as smooth as possible. Performance of the system creates a first impression for the users, so it is not just important to user’s experience but also supportability/maintainability of the system.
-
-Reliability: System should be reliable in order to be used for a long term, so the number of the system crush should be minimalized in order to create a reliable system and also, the system should be available all the time. Furthermore, database system should hold the information that the user add or deleted.
-
-Usability: This requirement has the highest contribution for the first impression of the user. If the system is hard to use or the user have a hard time to find what they are searching for, user will quit from using the system. Thus, system should have a user-friendly interface and user should be comfortable while using the system.
-
-Security: The accounts of the system holds a massive amount of information about the club, which player they are looking for, how much money that the club give to the players and more. In order to protect the privilege of the user, security should be tight.
-
-
-
-
-
+- Performance:  Response Time of the system should be minimalized in order to make the system work as smooth as possible. Performance of the system creates a first impression for the users, so it is not just important to user’s experience but also supportability/maintainability of the system.
+- Reliability: System should be reliable in order to be used for a long term, so the number of the system crush should be minimalized in order to create a reliable system and also, the system should be available all the time. Furthermore, database system should hold the information that the user add or deleted.
+- Usability: This requirement has the highest contribution for the first impression of the user. If the system is hard to use or the user have a hard time to find what they are searching for, user will quit from using the system. Thus, system should have a user-friendly interface and user should be comfortable while using the system.
+- Security: The accounts of the system holds a massive amount of information about the club, which player they are looking for, how much money that the club give to the players and more. In order to protect the privilege of the user, security should be tight.
 
 3. Limitations
-
-A club cannot transfer a player whose transfer fee exceeds its transfer budget.
-A club cannot transfer a player whose wage demand exceeds its annual wage budget
-Team captain cannot be from another team
-A player can’t be shown more than 2 yellow cards and 1 red card during the match.
-A player cannot play for more than one football club except for National Team.
-A club cannot participate in two different leagues at the same time, but a club can participate in both a cup and a league.
-Termination fee of a contract cannot exceed the transfer fee of the player
-A federation must organize events that they are connected to, i.e. Spanish football federation cannot organize the Turkish Super League
+- A club cannot transfer a player whose transfer fee exceeds its transfer budget.
+- A club cannot transfer a player whose wage demand exceeds its annual wage budget
+- Team captain cannot be from another team
+- A player can’t be shown more than 2 yellow cards and 1 red card during the match.
+- A player cannot play for more than one football club except for National Team.
+- A club cannot participate in two different leagues at the same time, but a club can participate in both a cup and a league.
+- Termination fee of a contract cannot exceed the transfer fee of the player
+- A federation must organize events that they are connected to, i.e. Spanish football federation cannot organize the Turkish Super League
