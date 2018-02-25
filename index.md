@@ -16,13 +16,13 @@ In this Project, our group will design and implement a football database system.
 2. Requirements
 2.1 Functional Requirements
 
-System should find the person that user has written the name of that person in the search bar.
-System should show all the attributes of the selected person or football club (if he is a football player system should show, height, nationality, play position, age, price, contract start date and end date, how many goal they have scored and more).
-System should include fixture of the club.
-System should show point tables for every league.
-System should allow the user to set price on a player.
-System should allow the user to send transfer offer to a player from another club to other club’s manager/user.
-System should allow the user to accept/decline the transfer offer.
+-System should find the person that user has written the name of that person in the search bar.
+-System should show all the attributes of the selected person or football club (if he is a football player system should show, height, nationality, play position, age, price, contract start date and end date, how many goal they have scored and more).
+-System should include fixture of the club.
+-System should show point tables for every league.
+-System should allow the user to set price on a player.
+-System should allow the user to send transfer offer to a player from another club to other club’s manager/user.
+-System should allow the user to accept/decline the transfer offer.
 
 
 
