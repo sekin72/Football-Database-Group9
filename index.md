@@ -13,16 +13,16 @@ URL of Diagram:
 
 In this Project, our group will design and implement a football database system. In this system, user can search various information about players (i.e. which position they play, which club they are working at and more), coaches, clubs, managers and more.  Club managers(directors) can set prices for each player they have, offer transfer to players who work for a different club and managers can accept or reject the transfer offer. Database system is required for keeping the information about the clubs, players, managers and more; leagues, point tables and fixture of the clubs. 
 
-2. Requirements
+2. Requirements<br />
 2.1 Functional Requirements
 
--System should find the person that user has written the name of that person in the search bar.
--System should show all the attributes of the selected person or football club (if he is a football player system should show, height, nationality, play position, age, price, contract start date and end date, how many goal they have scored and more).
--System should include fixture of the club.
--System should show point tables for every league.
--System should allow the user to set price on a player.
--System should allow the user to send transfer offer to a player from another club to other club’s manager/user.
--System should allow the user to accept/decline the transfer offer.
+- System should find the person that user has written the name of that person in the search bar.
+- System should show all the attributes of the selected person or football club (if he is a football player system should show, height, nationality, play position, age, price, contract start date and end date, how many goal they have scored and more).
+- System should include fixture of the club.
+- System should show point tables for every league.
+- System should allow the user to set price on a player.
+- System should allow the user to send transfer offer to a player from another club to other club’s manager/user.
+- System should allow the user to accept/decline the transfer offer.
 
 
 
