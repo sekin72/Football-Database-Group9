@@ -1,9 +1,9 @@
 ## CS 353 Database Systems  Project Proposal <br />
-![bilkent_logo](sekin72.github.io/Assets/Bilent_logo.jpg	)<br />
+![bilkent_logo](sekin72.github.io/Assets/Bilent_logo.jpg	)<br /><br />
 Şekip Kaan EKİN 21401795 Section 1<br />
 Ekinsu BOZDAĞ 21604089 Section 3<br />
 Tanay AKGÜL 21400778 Section 3<br />
-Koray GÜRSES 21401254 Section 3<br /><br /><br />
+Koray GÜRSES 21401254 Section 3<br /><br />
 Football Database E/R Diagram<br /><br />
 ![er_diagram](sekin72.github.io/Assets/er.jpg)<br />
 URL of Diagram: 
