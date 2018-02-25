@@ -1,6 +1,4 @@
 ## CS 353 Database Systems  Project Proposal 
-CS 353 Database Systems Project Proposal 
-
 
 ![bilkent_logo](sekin72.github.io/Assets/Bilent_logo.jpg	)
 
@@ -22,6 +20,8 @@ Football Database E/R Diagram
 
 
 Football Database System (e.g. Transfermarkt) In this project, you are required to build a database system for football. Users should be able to search any kind of information about players, agents, clubs, coaches and more. Club directors may set values of their players, offer transfer for players from other clubs and accept/reject transfer offers for their own players. Clubs have a transfer budget and an annual wage budget for players. A club’s players total annual wage cannot exceed its wage budget and a club cannot have a transfer offer for a player whose value is more than club’s transfer budget.
+
+
 Project Proposal The project proposal that you'll prepare should clearly and completely describe the application system that your team is proposing, and discuss why/how a database is going to be used as a part of the system. After this problem statement, you should define the requirements and limitations of your application system. You should next provide a conceptual design of the database using the E/R model. Recall that a typical E/R design may include strong and weak entities, binary/ternary relationships, aggregations, generalizations/specialization (e.g., IS-A relationship), cardinality constraints, keys and descriptive attributes, etc. As long as your application permits, we favor a large number of entities, relationships, etc. Of course, we don't want artificial entities etc. that are irrelevant to your project, but we believe, for most of the projects, there is enough room to add various things by using your creativity & imagination. So, try to have a reasonably rich database from the very beginning. Of course, you will have the chance of making corrections, extensions (and even deletions, sometimes) based on the TA feedbacks to your proposal and design reports, but it is important to think/brainstorm about the requirements of upcoming stages and start with a reasonable initial design. Finally, each project group should prepare a simple web page for the term project and publish their project proposal on this web page (in addition to submitting the printed proposal on its due date). Please don't forget to include your web page's address in the hardcopy proposals you submit. (Note that this web page is just to publish your reports and has nothing to do with the Web interface you will provide for your projects).
 
 URL of Diagram: 
