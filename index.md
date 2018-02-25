@@ -1,7 +1,8 @@
 ## CS 353 Database Systems  Project Proposal 
-CS 353 
-Database Systems 
- Project Proposal 
+CS 353 Database Systems Project Proposal 
+
+
+![bilkent_logo](sekin72.github.io/Assets/Bilent_logo.jpg	)
 
 
 Şekip Kaan EKİN 21401795 Section 1
@@ -14,10 +15,10 @@ Koray GÜRSES 21401254 Section 3
 
 
 
-
-
 Football Database E/R Diagram
-![useful image](sekin72.github.io/Assets/er.jpg)
+
+
+![er_diagram](sekin72.github.io/Assets/er.jpg)
 
 
 Football Database System (e.g. Transfermarkt) In this project, you are required to build a database system for football. Users should be able to search any kind of information about players, agents, clubs, coaches and more. Club directors may set values of their players, offer transfer for players from other clubs and accept/reject transfer offers for their own players. Clubs have a transfer budget and an annual wage budget for players. A club’s players total annual wage cannot exceed its wage budget and a club cannot have a transfer offer for a player whose value is more than club’s transfer budget.
