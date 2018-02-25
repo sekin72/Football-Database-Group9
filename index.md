@@ -12,7 +12,7 @@ URL of Diagram:
 1. Introduction<br />
 In this Project, our group will design and implement a football database system. In this system, user can search various information about players (i.e. which position they play, which club they are working at and more), coaches, clubs, managers and more.  Club managers(directors) can set prices for each player they have, offer transfer to players who work for a different club and managers can accept or reject the transfer offer. Database system is required for keeping the information about the clubs, players, managers and more; leagues, point tables and fixture of the clubs. <br /><br />
 2. Requirements<br /><br />
-   2.1 Functional Requirements
+   * 2.1 Functional Requirements
 - System should find the person that user has written the name of that person in the search bar.
 - System should show all the attributes of the selected person or football club (if he is a football player system should show, height, nationality, play position, age, price, contract start date and end date, how many goal they have scored and more).
 - System should include fixture of the club.
@@ -20,7 +20,7 @@ In this Project, our group will design and implement a football database system.
 - System should allow the user to set price on a player.
 - System should allow the user to send transfer offer to a player from another club to other club’s manager/user.
 - System should allow the user to accept/decline the transfer offer.<br /><br />
-   2.2 Non-functional Requirements
+   * 2.2 Non-functional Requirements
 - Performance:  Response Time of the system should be minimalized in order to make the system work as smooth as possible. Performance of the system creates a first impression for the users, so it is not just important to user’s experience but also supportability/maintainability of the system.<br />
 - Reliability: System should be reliable in order to be used for a long term, so the number of the system crush should be minimalized in order to create a reliable system and also, the system should be available all the time. Furthermore, database system should hold the information that the user add or deleted.<br />
 - Usability: This requirement has the highest contribution for the first impression of the user. If the system is hard to use or the user have a hard time to find what they are searching for, user will quit from using the system. Thus, system should have a user-friendly interface and user should be comfortable while using the system.<br />
